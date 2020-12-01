@@ -9,6 +9,8 @@ Using compile-time Jenkins hashes instead of heavier GetHashKey
 # Installation
 Put the file in your resource folder, and make sure to add it to your server config.
 
+Open config.lua and change modifier values and add weapons, every modifier is set to 0.1 just to show how it's done.
+
 # Change Multipliers
 Open config.lua add weapons you want to change multipliers for.
 
