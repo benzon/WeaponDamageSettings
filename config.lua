@@ -1,3 +1,5 @@
+-- https://docs.fivem.net/natives/?_0x4757F00BC6323CFE
+
 Config = {}
 
 -- Make sure to change the modifier on weapons, every weapon is set to 0
